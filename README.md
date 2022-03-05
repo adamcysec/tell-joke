@@ -19,6 +19,7 @@ This tool will query the following free public joke apis (no auth is required):
 
 `py tell-joke.py`
 
+Output:
 ```
 joke source: Chuck Norris
 joke: If Chuck Norris decides he wants to take a shit on your chest, you just have to quickly come to terms with the fact that you're about to get shit-chested. All you can do is try to craft a thank you speech that touches him enough to not move on to other bodily expulsions.
