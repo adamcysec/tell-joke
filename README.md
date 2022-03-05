@@ -16,6 +16,7 @@ This tool will query the following free public joke apis (no auth is required):
 6. [icanhazdadjoke](https://icanhazdadjoke.com/api)
 
 # Usage
+**Example 1**
 
 `py tell-joke.py`
 
